@@ -4,7 +4,7 @@
 > Building with code & creativity. MCA graduate passionate about modern web applications and AI-powered tools.
 
 [![GitHub](https://img.shields.io/badge/GitHub-abhishekachar05-181717?style=flat&logo=github)](https://github.com/abhishekachar05)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-abhishekachar-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/abhishekachar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Achar-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/abhishek-achar-9531b132b/)
 [![Email](https://img.shields.io/badge/Email-abhishekachar0005@gmail.com-EA4335?style=flat&logo=gmail)](mailto:abhishekachar0005@gmail.com)
 
 ---
@@ -80,7 +80,7 @@ No build step needed — it's plain HTML/CSS/JS.
 | Platform | Link |
 |---|---|
 | 📧 Email | [abhishekachar0005@gmail.com](mailto:abhishekachar0005@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/abhishekachar](https://linkedin.com/in/abhishekachar) |
+| 💼 LinkedIn | [linkedin.com/in/abhishek-achar-9531b132b](https://www.linkedin.com/in/abhishek-achar-9531b132b/) |
 | 🐙 GitHub | [github.com/abhishekachar05](https://github.com/abhishekachar05) |
 | 💬 Telegram | [@Goat2024n](https://t.me/@Goat2024n) |
 | 📱 WhatsApp | [+91 82965 40658](https://wa.me/918296540658) |
